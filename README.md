@@ -10,8 +10,7 @@
 ## 🛠️ Tools I'm Using (So far...)
 - Python (beginner level)
 - Git & GitHub
-- VS Code
-- ChatGPT (my study buddy!)
+- Google AI studio
 
 ## 📫 How to Reach Me
 - LinkedIn: www.linkedin.com/in/gautami-prasad-66aa53336
