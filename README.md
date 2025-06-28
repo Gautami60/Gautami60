@@ -10,8 +10,9 @@
 ## 🛠️ Tools I'm Using (So far...)
 - Python (beginner level)
 - Git & GitHub
-- Google AI studio
-
+- AI tools and Generative AI 
+- VS code
+  
 ## 📫 How to Reach Me
 - LinkedIn: www.linkedin.com/in/gautami-prasad-66aa53336
 - Email: gautamiprasad17@email.com
