@@ -2,7 +2,7 @@
 👩‍💻 Computer Science undergrad | 🎓 Data Science student | 🌱 Beginner in AI + Code
 
 ## About Me
-- First-year student exploring the world of computer science  
+- Student exploring the world of computer science  
 - Currently learning the basics of Python, Git, and AI tools  
 - Interested in Data Science, Machine Learning, and Open Source  
 - I enjoy public speaking and leadership roles outside of coding  
