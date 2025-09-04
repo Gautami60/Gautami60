@@ -1,11 +1,16 @@
 # Hey, I'm Gautami 
-👩‍💻 Computer Science undergrad | 🎓 Data Science student | 🌱 Beginner in AI + Code
 
 ## About Me
-- Student exploring the world of computer science  
-- Currently learning the basics of Python, Git, and AI tools  
-- Interested in Data Science, Machine Learning, and Open Source  
-- I enjoy public speaking and leadership roles outside of coding  
+
+🎓 Computer Science Engineering undergraduate specializing in Data Science.
+
+💡 Curious learner who enjoys exploring across AI, full-stack development, cloud, and problem-solving.
+
+📊 Interested in data-driven solutions, system design, and creating applications that have practical impact.
+
+🌱 Always experimenting with new tools and technologies, and improving step by step.
+
+✨ Strong believer in learning by building — from coding challenges to end-to-end applications.
   
 ## How to Reach Me
 - LinkedIn: www.linkedin.com/in/gautami-prasad-66aa53336
