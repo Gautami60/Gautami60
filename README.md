@@ -299,7 +299,7 @@ Designing and building academic, experimental, and product-oriented software sys
 </a>
 
 <a href="https://github.com/Gautami60">
-<img src="https://streak-stats.demolab.com?user=Gautami60&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="./profile/streak.svg" height="180" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
