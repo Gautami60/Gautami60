@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="430" viewBox="0 0 440 430">
+<rect width="440" height="430" rx="24" fill="#0b0b10"/>
+<text x="28" y="38" fill="#c4b5fd" font-family="monospace" font-size="13">ENGINEERING SIGNALS</text>
+<polygon points="220.0,183.8 251.4,201.9 251.4,238.1 220.0,256.2 188.6,238.1 188.6,201.9" fill="none" stroke="#272235" stroke-width="1"/>
+<polygon points="220.0,147.5 282.8,183.8 282.8,256.2 220.0,292.5 157.2,256.2 157.2,183.8" fill="none" stroke="#272235" stroke-width="1"/>
+<polygon points="220.0,111.2 314.2,165.6 314.2,274.4 220.0,328.8 125.8,274.4 125.8,165.6" fill="none" stroke="#272235" stroke-width="1"/>
+<polygon points="220.0,75.0 345.6,147.5 345.6,292.5 220.0,365.0 94.4,292.5 94.4,147.5" fill="none" stroke="#272235" stroke-width="1"/>
+<line x1="220" y1="220" x2="220.0" y2="75.0" stroke="#272235"/>
+<text x="220.0" y="40.0" text-anchor="middle" dominant-baseline="middle" fill="#a1a1aa" font-family="monospace" font-size="12">Frontend</text>
+<line x1="220" y1="220" x2="345.6" y2="147.5" stroke="#272235"/>
+<text x="375.9" y="130.0" text-anchor="start" dominant-baseline="middle" fill="#a1a1aa" font-family="monospace" font-size="12">Backend</text>
+<line x1="220" y1="220" x2="345.6" y2="292.5" stroke="#272235"/>
+<text x="375.9" y="310.0" text-anchor="start" dominant-baseline="middle" fill="#a1a1aa" font-family="monospace" font-size="12">APIs</text>
+<line x1="220" y1="220" x2="220.0" y2="365.0" stroke="#272235"/>
+<text x="220.0" y="400.0" text-anchor="middle" dominant-baseline="middle" fill="#a1a1aa" font-family="monospace" font-size="12">Cloud</text>
+<line x1="220" y1="220" x2="94.4" y2="292.5" stroke="#272235"/>
+<text x="64.1" y="310.0" text-anchor="end" dominant-baseline="middle" fill="#a1a1aa" font-family="monospace" font-size="12">Git</text>
+<line x1="220" y1="220" x2="94.4" y2="147.5" stroke="#272235"/>
+<text x="64.1" y="130.0" text-anchor="end" dominant-baseline="middle" fill="#a1a1aa" font-family="monospace" font-size="12">Systems</text>
+<polygon points="220.0,115.6 307.9,169.2 305.4,269.3 220.0,289.6 117.0,279.5 150.9,180.1" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-width="2"/>
+<circle cx="220.0" cy="115.6" r="4" fill="#8B5CF6"/>
+<circle cx="307.9" cy="169.2" r="4" fill="#8B5CF6"/>
+<circle cx="305.4" cy="269.3" r="4" fill="#8B5CF6"/>
+<circle cx="220.0" cy="289.6" r="4" fill="#8B5CF6"/>
+<circle cx="117.0" cy="279.5" r="4" fill="#8B5CF6"/>
+<circle cx="150.9" cy="180.1" r="4" fill="#8B5CF6"/>
+</svg>

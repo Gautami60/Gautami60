@@ -1,21 +1,168 @@
-# 💫 About Me:
-About Me<br>🎓 Computer Science Engineering undergraduate specializing in Data Science.<br><br>💡 Curious learner who enjoys exploring across AI, full-stack development, cloud, and problem-solving.<br><br>📊 Interested in data-driven solutions, system design, and creating applications that have practical impact.<br><br>🌱 Always experimenting with new tools and technologies, and improving step by step.<br><br>✨ Strong believer in learning by building — from coding challenges to end-to-end applications.<br>
+<div align="center">
 
+<img src="./assets/hero.gif" width="100%" alt="Gautami Prasad — AI / ML / Data Science"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/gautami-prasad-66aa53336) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__gautami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamiprasad17@gmail.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gautami60&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gautami60&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautami60&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/gautami-prasad-66aa53336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://x.com/__gautami"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=AA9BEF"/></a>
+&nbsp;
+<a href="mailto:gautamiprasad17@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=AA9BEF"/></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gautami60&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Gautami60&style=flat&color=aa9bef&label=profile+views"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=850&lines=Computer+Science+%2B+Data+Science;Learning+Machine+Intelligence;Building+the+systems+around+it;Always+one+experiment+away+from+something+interesting."/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gautami60&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## This is me :)
+
+I'm **Gautami**, a Computer Science Engineering undergraduate specializing in **Data Science**.
+
+I'm currently moving deeper into **AI/ML engineering** — learning the fundamentals, experimenting with models, working with data, and building the software around them.
+
+I enjoy the entire path from **problem → data → experiment → model → application**.
+
+- 🧠 **AI / ML** — machine learning, deep learning, computer vision
+- 📊 **Data** — Python, SQL, statistics, analysis
+- ⚙️ **Engineering** — APIs, backend, full-stack development
+- ☁️ **Infrastructure** — cloud, deployment and integration
+- 🎨 **Design** — I care about how technical things look and feel too
+
+<br>
+
+> **I learn best when I can build something, break something, and figure out why it broke.**
+
+---
+
+<div align="center">
+
+## my perfect stack`
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,fastapi,flutter,vite,tailwind,mongodb,supabase,aws,azure,gcp,git,github,vscode&perline=9&theme=dark" alt="technology stack"/>
+
+<br><br>
+
+`NumPy` &nbsp; `Pandas` &nbsp; `scikit-learn` &nbsp; `JWT` &nbsp; `REST APIs`
+
+</div>
+
+---
+
+<div align="center">
+
+## signals
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="./assets/radar-ai.svg" width="400" alt="AI and data signals"/>
+</td>
+<td width="50%" align="center">
+<img src="./assets/radar-engineering.svg" width="400" alt="Engineering signals"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## currently loading...
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=AA9BEF&center=true&vCenter=true&width=700&lines=Python+%E2%86%92+stronger+foundations;Machine+Learning+%E2%86%92+deeper+understanding;Computer+Vision+%E2%86%92+more+experiments;APIs+%26+Cloud+%E2%86%92+better+systems" alt="Currently learning"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+🌱
+
+**FOUNDATIONS**
+
+Python  
+SQL  
+Linux  
+DSA  
+Statistics
+
+</td>
+<td align="center" width="33%">
+
+🧠
+
+**INTELLIGENCE**
+
+Data Science  
+Machine Learning  
+Deep Learning  
+Computer Vision
+
+</td>
+<td align="center" width="33%">
+
+⚙️
+
+**ENGINEERING**
+
+APIs  
+Backend  
+Full Stack  
+Cloud  
+Deployment
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## Numbers matter? ohhh yes.
+
+<img src="./assets/stats.svg" width="90%" alt="GitHub profile statistics"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautami60&layout=compact&theme=transparent&hide_border=true&title_color=AA9BEF&text_color=D4D4D8&langs_count=7" height="160" alt="Most used languages"/>
+
+</div>
+
+---
+
+## building philosophy
+
+<table>
+<tr>
+<td width="25%" align="center">🌱<br><br><strong>LEARN</strong><br><sub>Understand the thing before hiding behind the abstraction.</sub></td>
+<td width="25%" align="center">🔨<br><br><strong>BUILD</strong><br><sub>Turn the concept into something that actually runs.</sub></td>
+<td width="25%" align="center">🧪<br><br><strong>EXPERIMENT</strong><br><sub>Change things. Measure things. Break things.</sub></td>
+<td width="25%" align="center">✨<br><br><strong>REFINE</strong><br><sub>Make the next version better than the last.</sub></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=71717A&center=true&vCenter=true&width=700&lines=still+learning+%C2%B7+still+building+%C2%B7+still+curious" alt="Closing message"/>
+
+<br><br>
+
+<sub>` build with curiosity · Gautami `</sub>
+
+</div>
